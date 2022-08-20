@@ -1,0 +1,1 @@
+Adding text to see if I got it this time. Running through zsh works a lot smoother than bash.
